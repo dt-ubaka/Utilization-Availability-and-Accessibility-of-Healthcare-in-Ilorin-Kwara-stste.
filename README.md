@@ -27,8 +27,4 @@ This project investigates the impact of the National Health Insurance Scheme (NH
 - Strengthen healthcare infrastructure  
 - Provide continuous training for healthcare workers  
 - Establish monitoring & evaluation systems  
-- Implement anti-corruption measures to ensure transparency  
-
-
-
-Do you want me to also create a **short “About Me” section** at the bottom of the README so recruiters or collaborators know who you are and what you’re working toward (like your transition into Data Analysis)?
+- Implement anti-corruption measures to ensure transparency
